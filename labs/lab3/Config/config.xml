@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ConfigModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Encryption>false</Encryption>
+  <Compression>true</Compression>
+  <EncryptionKey>11111111</EncryptionKey>
+  <SourcePath>D:\Projects\cs\labs\Files\SourceDir</SourcePath>
+  <TargetPath>D:\Projects\cs\labs\Files\TargetDir</TargetPath>
+</ConfigModel>

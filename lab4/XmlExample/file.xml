@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<XmlModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PersonalInfo>
+    <Name>testName</Name>
+    <PhoneNumber>testNumber</PhoneNumber>
+  </PersonalInfo>
+  <LoginInfo>
+    <Email>gail0@adventure-works.com</Email>
+    <Password>qYhZRiM=</Password>
+  </LoginInfo>
+  <AddressInfo>
+    <Address>testAddress</Address>
+  </AddressInfo>
+</XmlModel>
